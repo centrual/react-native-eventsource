@@ -20,5 +20,6 @@ repositories {
 }
 
 dependencies {
+    implementation "com.android.support:support-v4:27.1.1"
     implementation "com.facebook.react:react-native:+"
 }
